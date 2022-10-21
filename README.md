@@ -6,11 +6,11 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./screenshot.png)![](./screenshot-mobile.png)
 
 ### Links
 
-- Live Site URL: [GitHub Pages link](https://kasia307584.github.io/challenge_Four-Card-Section/)
+- Live Site URL: [See the live page here](https://kasia307584.github.io/challenge_Four-Card-Section/)
 
 ### The challenge
 
@@ -27,9 +27,9 @@ Users should be able to:
 
 ### What I learned
 
-- Use `CSS Grid`
-- Responsive design
+- Use of `CSS Grid`
+- `media-queries` for responsive website
 
 ## Author
 
-- Frontend Mentor - [My Profile Page link](https://www.frontendmentor.io/profile/Kasia307584)
+- Frontend Mentor - [See my solutions here](https://www.frontendmentor.io/profile/Kasia307584)
