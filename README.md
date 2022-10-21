@@ -6,7 +6,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Screenshot
 
-|![](./screenshot.png)|![](./screenshot-mobile.png)|
+<img align="left" width="460" height="300" src="./screenshot.png"><img align="right" width="150" height="300" src="./screenshot-mobile.png">
 
 ### Links
 
